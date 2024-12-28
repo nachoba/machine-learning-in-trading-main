@@ -10,5 +10,6 @@ conda env list
 
 conda remove --name quantra_py --all
 
+https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/
 
 ------
