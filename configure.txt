@@ -10,3 +10,5 @@ conda env list
 
 conda remove --name quantra_py --all
 
+
+------
